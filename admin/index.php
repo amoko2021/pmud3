@@ -65,10 +65,8 @@
         ?>
     </div>
     <br><br>
-	<div id="footer" class="bg-primary text-center text-white">
-        <br>
-        &copy;
-         <!-- 2018 - Hải sản Tươi sống -->
+	
+        
         <br><br>
     </div>
 </div>
